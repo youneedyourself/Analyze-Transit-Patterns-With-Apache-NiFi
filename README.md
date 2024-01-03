@@ -38,5 +38,5 @@ This will also prompt you to enter the Username and Password. You can get the Us
 Kindly search for "Generated Username" & "Generated Password" to find the Username and Password for your NiFi instance.
 
 <p align="center">
-  <img src="assets/fig_nifi_password.png">
+  <img src="assets/fig08_nifi_password.png">
 </p>
